@@ -20,7 +20,7 @@ bot.on('message', message =>{
             },
             title: "Commandes:",
             url: 'https://twitter.com/NekoCha88477547',
-            description : `**Liste des commandes :** \n -ncb/help \n -ncb/ping`,
+            description : `**Liste des commandes :** \n -nc/help \n -nc/ping`,
             fields: [{
                 name:'Update',
                 value:'Ajout du embed du /help  \n Ajout du lien Twitter'
